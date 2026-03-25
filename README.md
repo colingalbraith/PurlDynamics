@@ -6,11 +6,14 @@
 
 Real-time chain mail simulation using **Projective Dynamics** and **Offset Geometric Contact** on the GPU.
 
-<!-- Add screenshots/gifs here -->
-<!-- ![Demo](docs/images/demo.gif) -->
+<p align="center">
+  <img src="docs/images/initial.png" alt="Chain mail — initial configuration" width="560">
+  &nbsp;&nbsp;
+  <img src="docs/images/simulation.png" alt="Chain mail — deformed under gravity" width="280">
+</p>
 
 <p align="center">
-  <img src="docs/images/placeholder.png" alt="Chain mail simulation" width="720">
+  <em>Left: 144 interlocking links in initial configuration. Right: deformed under gravity with boundary pinning.</em>
 </p>
 
 ---
